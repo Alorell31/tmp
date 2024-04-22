@@ -56,7 +56,9 @@ We will need to create our own SSH rsa key pair
 sshe-keygen -t rsa
 ```
 
-For WSL users and if you crete a non default key you might need to add it
+For WSL users and if you crete a non default key you might need to add it.
+You will need to paste key generated in CLI into Github add  SSH key > seetings> SSSH GPG keys > 
+add SSH Key
 
 ```sh
 eval `ssh-agent`
