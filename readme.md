@@ -72,6 +72,7 @@ ssh -T git@github.com
 ```
 
 ### Github CLI
+work form github codespace terminal:
 
 Install the CLI
 
