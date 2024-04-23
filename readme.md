@@ -1,5 +1,7 @@
 
+### TEST ADD
 ## Git Hidden Folder
+
 
 There is a hidden folder called `.git` which tells you that our project is a git repo.
 
